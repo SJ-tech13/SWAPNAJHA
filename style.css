@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+}
+p{
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: style type none;;
+    margin: 5%;
+    padding: 5%;
+    overflow: hidden;
+}
+li{
+    display: inline;
+    float: left;
+}
